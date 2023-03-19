@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "calculator-test"
+  site-url: "https://ppt34.github.io/calculator-test"
+  description: "a calculator repo just used to test nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/ppt34/calculator-test"
